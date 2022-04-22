@@ -9,13 +9,13 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=white"/>
 </div>
 <div align="center">
-  <a href="https://www.instagram.com/1.eq.0">
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  </a>
 </div>
 </br>
 <div align="center">
+  <a href="https://www.instagram.com/1.eq.0">
   <img src="https://img.shields.io/badge/1.eq.0-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
 </div>
 <div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1eq0&count_bg=%233D6BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
